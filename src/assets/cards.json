@@ -1,0 +1,38 @@
+[
+    {
+      "id": 1,
+      "img": "https://img.freepik.com/foto-gratis/hermoso-arbol-medio-campo-cubierto-hierba-linea-arboles-fondo_181624-29267.jpg",
+      "title": "Bosque Encantado",
+      "text": "Explora la belleza mágica de los bosques. Descubre la biodiversidad y la serenidad que ofrecen estos tesoros naturales."
+    },
+    {
+      "id": 2,
+      "img": "https://ichef.bbci.co.uk/news/640/cpsprodpb/D74E/production/_98781155_gettyimages-519228312.jpg",
+      "title": "Exploración Submarina",
+      "text": "Sumérgete en el mundo submarino. Explora arrecifes de coral, peces tropicales y naufragios en aguas cristalinas."
+    },
+    {
+      "id": 3,
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyB_O63Bx83hFxCi5dfIKR3ylgiL5RtGR3Pw&usqp=CAU",
+      "title": "Aventuras en la Montaña",
+      "text": "Embárcate en emocionantes caminatas de montaña. Desafía tus límites y disfruta de vistas panorámicas impresionantes."
+    },
+    {
+        "id": 4,
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLjZhW3JrXlUcF482RQsWUcMRUqUkapozzhwOoNohRKnQjTZ9zmNgCPMcfaNxdP1dt2qc&usqp=CAU",
+        "title": "Playas de Ensueño",
+        "text": "Relájate en playas de arena blanca y aguas cristalinas. Disfruta del sol, el surf y la tranquilidad junto al mar."
+      },
+      {
+        "id": 5,
+        "img": "https://st1.uvnimg.com/dims4/default/09076b0/2147483647/thumbnail/480x270/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fassets%2Fvixes%2Fbtg%2Fcuriosidades.batanga.com%2Ffiles%2FLas-8-aves-mas-extranas-del-mundo-7.jpg",
+        "title": "Observación de Aves",
+        "text": "Embárcate en una aventura de observación de aves. Descubre aves exóticas y admira su belleza en su hábitat natural."
+      },
+      {
+        "id": 6,
+        "img": "https://i.ytimg.com/vi/7Ilu033ydSw/maxresdefault.jpg",
+        "title": "Eco-Turismo",
+        "text": "Experimenta el eco-turismo en su máxima expresión. Conéctate con la naturaleza, apoya la conservación y crea recuerdos inolvidables."
+      }
+  ]

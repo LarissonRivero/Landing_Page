@@ -10,8 +10,8 @@ export default function Jumbotron(){
           height: '300px',
           marginTop: '10px',
         }}>
-        <h1>Planifica tus Viajes con Nosotros</h1>
-        <h3>"Descubre el mundo a tu ritmo con nuestro experto apoyo en cada paso de tu viaje."</h3>
+        <h1 className="mt-10 p-5">Planifica tus Viajes con Nosotros</h1>
+        <h2>"Descubre el mundo a tu ritmo con nuestro experto apoyo en cada paso de tu viaje."</h2>
     </div>
     )
 }
